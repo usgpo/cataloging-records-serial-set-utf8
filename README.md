@@ -6,7 +6,7 @@ The first record set includes 9,492 monographs and 49 serials in various Congres
 
 The records are discoverable in the CGP via the [Congressional Serial Set Catalog](https://purl.fdlp.gov/GPO/LPS93629) and the standard search modes. In the [expert search mode](https://purl.fdlp.gov/GPO/LPS93626), you can use a local field search to retrieve all of the Serial Set records and combine that search with other metadata elements: `wlts=SERIALSET?`
 
-The `volume_numbers_serial_set_202112-9492.csv` file lists the Serial Set volume numbers represented in the records.
+The `volume_numbers_serial_set_202112_9492.csv` file lists the Serial Set volume numbers represented in the records.
 
 We ask that you please submit your feedback and questions about the records via [askGPO](https://ask.gpo.gov/s/) in the Cataloging/Metadata (Policy and Records) category.
 
