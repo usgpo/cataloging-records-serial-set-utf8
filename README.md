@@ -11,3 +11,11 @@ The `volume_numbers_serial_set_202112_9492.csv` file lists the Serial Set volume
 We ask that you please submit your feedback and questions about the records via [askGPO](https://ask.gpo.gov/s/) in the Cataloging/Metadata (Policy and Records) category.
 
 To download the files, use the `Code` button in the right-hand section of this page and select `Download ZIP.` The ZIP file contains all of the files in the repository.
+
+## Other LSCM Repositories
+
+Please visit LSCM's related repositories for more information about their contents.
+
+- [cataloging-records-all-cgp-marcxml](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
+- [cataloging-records-all-cgp-utf8](https://github.com/usgpo/cataloging-records-all-cgp-utf8)
+- [cataloging-records-all-serial-set-marcxml](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
