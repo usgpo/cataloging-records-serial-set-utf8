@@ -1,4 +1,4 @@
-# Serial Set (MARC UTF-8)
+# U.S. Congressional Serial Set Records (MARC UTF-8)
 
 ## General Information
 
