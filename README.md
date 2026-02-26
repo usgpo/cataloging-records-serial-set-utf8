@@ -24,7 +24,7 @@ The records are discoverable in the CGP via the [Congressional Serial Set Catalo
 
 ### Downloading Instructions
 
-When downloading files from the repository, all files in the repository are included in the downloaded zip file.
+When downloading files from the repository, all files in the repository are included in the downloaded zip file..
 
 1. In the top right-hand section of this page, click on the “Code” button.
 2. Click on “Download ZIP.”
